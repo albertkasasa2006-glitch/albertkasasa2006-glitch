@@ -1,8 +1,8 @@
 ## Hi, I'm Kasasa Albert 👋
 
-ICT student at Uganda Christian University. I build websites and I'm learning data science.
+Data Science student at Uganda Christian University. I build websites and I'm learning data science.
 
-- 🌐 Portfolio: [albertkasasa2006-glitch.github.io/albertkasasa2006-glitch](https://albertkasasa2006-glitch.github.io/albertkasasa2006-glitch/)
+- 🌐 Portfolio: [albertkasasa2006-glitch.github.io/albertkasasa2006-glitch](https://albertkasasa2006-glitch.github.io)
 - 🔭 Currently working on my portfolio and an e-commerce website
 - 🌱 Currently learning data science
 - 💬 Ask me about HTML, CSS, Python, JavaScript and subnetting
